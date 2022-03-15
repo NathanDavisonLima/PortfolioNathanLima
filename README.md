@@ -25,4 +25,12 @@ Botucatu - SP
 - Técnico em Desenvolvimendo de Sistemas - Etec Comendador João Rays
   - Julho de 2019 - Dezembro de 2020
 
+### Cursos de aperfeiçoamento
+- Informática - Windows 10 / Word / Excel / PowerPoint - QualyUp.
+- IT Essentials: PC Hardware and Software (Cisco Networking Academy) - concluído
+em 2021.
+- Introdução a Cybersegurança (Cisco Networking Academy) – concluído em 2021.
 
+### Idiomas
+- Inglês:
+  - Leitura, escrita e conversação intermediárias.
