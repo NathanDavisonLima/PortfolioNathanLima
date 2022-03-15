@@ -2,6 +2,10 @@
 ### Nathan Davison Lima
 Idade: 19 anos.
 
+Telefone: (14) 997375078.
+
+Botucatu - SP.
+
 ### Conhecimentos
 - C#;
 - C;
