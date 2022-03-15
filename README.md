@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/NathanDavisonLima/PortfolioNathanLima/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 # BEM VINDO AO MEU PORTFÓLIO
-### Markdown
+### Nathan Davison Lima
+Idade: 19 anos;
+Faculdade: Faculdade de Tecnologia de Botucatu - FATEC;
+Curso: Análise e Desenvolvimento de Sistemas;
+
+### Conhecimentos
+- C#;
+- C;
+- SQL;
+- Pascal;
+- ASP.NET;
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
