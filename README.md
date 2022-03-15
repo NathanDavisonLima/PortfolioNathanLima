@@ -1,8 +1,11 @@
 # BEM VINDO AO MEU PORTFÓLIO
 ### Nathan Davison Lima
 Idade: 19 anos.
+
 Faculdade: Faculdade de Tecnologia de Botucatu - FATEC.
+
 Curso: Análise e Desenvolvimento de Sistemas.
+
 
 ### Conhecimentos
 - C#;
