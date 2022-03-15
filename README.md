@@ -14,6 +14,10 @@ Curso: Análise e Desenvolvimento de Sistemas.
 - Pascal;
 - ASP.NET;
 
+### Experiências profissionais
+- Estágio em Engenharia de Dados em Nuvem Azure and Microsoft - Compass.uol
+  - Período: 3 (três) meses (outubro de 2021 - dezembro de 2021)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
