@@ -2,11 +2,6 @@
 ### Nathan Davison Lima
 Idade: 19 anos.
 
-Faculdade: Faculdade de Tecnologia de Botucatu - FATEC.
-
-Curso: Análise e Desenvolvimento de Sistemas.
-
-
 ### Conhecimentos
 - C#;
 - C;
@@ -17,6 +12,12 @@ Curso: Análise e Desenvolvimento de Sistemas.
 ### Experiências profissionais
 - Estágio em Engenharia de Dados em Nuvem Azure and Microsoft - Compass.uol
   - Período: 3 (três) meses (outubro de 2021 - dezembro de 2021)
+
+### Formação acadêmica
+- Tecnólogo em Análise e Desenvolvimento de Sistemas - Faculdade de Tecnologia de Botucatu (FATEC)
+  - Fevereiro de 2021 - Dezembro de 2023
+- Técnico em Desenvolvimendo de Sistemas - Etec Comendador João Rays
+  - Julho de 2019 - Dezembro de 2020
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
