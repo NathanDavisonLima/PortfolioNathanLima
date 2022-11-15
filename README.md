@@ -1,8 +1,8 @@
 # BEM VINDO AO MEU PORTFÓLIO
 ### Nathan Davison Lima
-Idade: 19 anos
+Idade: 20 anos
 
-Email para contat: contato.nathanlima@hotmail.com
+Email para contato: contato.nathanlima@hotmail.com
 
 Telefone: (14) 997375078
 
@@ -14,6 +14,10 @@ Botucatu - SP
 - SQL;
 - Pascal;
 - ASP.NET;
+- Java;
+- HTML;
+- CSS;
+- Javascript.
 
 ### Experiências profissionais
 - Estágio em Engenharia de Dados em Nuvem Azure and Microsoft - Compass.uol
